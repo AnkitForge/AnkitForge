@@ -1,3 +1,11 @@
+<h1 align="center">Hey Everyone 👋, I'm Ankit</h1>
+<h3 align="center">Building Solutions with Full-Stack, AI & ML | From India 🇮🇳</h3>
+
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning ML and Deep Learning<br>
+
+<br>👨‍💻 All of my projects are available at https://github.com/AnkitForge<br><br>💬 Ask me about Javascript, React,  and Python<br><br>📫 How to reach me ankitpatel.sonvarsha@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/ankit-patel-546710324
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-patel-546710324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitpatel.sonvarsha@gmail.com) 
@@ -12,8 +20,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnkitForge&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnkitForge&icon=0&color=0)](https://visitcount.itsvg.in)
